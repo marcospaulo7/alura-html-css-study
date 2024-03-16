@@ -1,0 +1,19 @@
+/* css-reset.css */
+
+/* Reset de margens e preenchimentos para todos os elementos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Defina estilos básicos para o corpo */
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+
+/* Corrija estilos para elementos específicos que podem variar entre navegadores */
+h1, h2, h3, p {
+    margin-bottom: 1rem;
+}
